@@ -7,11 +7,11 @@ UWP-Confulence is one of the Presentation Layer applications in the Zevere solut
 Started with the purpose of learning and experimenting with new technologies, and simply just to code.
 
 
-Road Map
+## Road Map
 
 As a starting point, Conflate will be a simple UWP application connecting to a RESTful Web API, with a SQLite Data Layer.
 
-Future steps include: 
+## Future steps include: 
 
 * ELK Stack Logging
 * Windows Hello
@@ -20,7 +20,7 @@ Future steps include:
 
 and more... 
 
-Contributions
+## Contributions
 
 Suggestions and contributions are welcome!	
 
