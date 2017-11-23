@@ -4,7 +4,7 @@ Simple Task Management UWP Application. OFfers ToDo List with Reminders.
 
 UWP-Confulence is one of the Presentation Layer applications in the Zevere solution. 
 
-Started with the purpose of learning and experimenting with new technologies, and simply just code.
+Started with the purpose of learning and experimenting with new technologies, and simply just to code.
 
 
 Road Map
@@ -19,3 +19,9 @@ Future steps include:
 * Speech Interactions using Cortana
 
 and more... 
+
+Contributions
+
+Suggestions and contributions are welcome!	
+
+Collaborators must be a member of the group chat to ensure that they know what's happening with the project.
